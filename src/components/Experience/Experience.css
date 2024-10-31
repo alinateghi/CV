@@ -1,54 +1,55 @@
 .job {
-    padding: 0.8rem 0 0.25rem 0;
-    break-inside: avoid;
+  padding: 0.8rem 0 0.25rem 0;
+  break-inside: avoid;
 }
 
-.job h3, .job h4 {
-    margin-block-start: 0;
-    margin-block-end: 0.5rem;
+.job h3,
+.job h4 {
+  margin-block-start: 0;
+  margin-block-end: 0.5rem;
 }
 
 .job-info {
-    display: flex;
-    align-items: start;
+  display: flex;
+  align-items: start;
 }
 
 .job-info .titles {
-    flex: 1 0 auto;
+  flex: 1 0 auto;
 }
 
 .job-info .extra {
-    width: auto;
-    text-align: end;
-    font-size: .8em;
-    font-style: italic;
+  width: auto;
+  text-align: end;
+  font-size: 0.8em;
+  font-style: italic;
 }
 
 .job-info .position {
-    position: relative;
-    width: fit-content;
-    font-size: 1.25em; /* Adjust as needed */
-    font-weight: 800;
+  position: relative;
+  width: fit-content;
+  font-size: 1.25em; /* Adjust as needed */
+  font-weight: 800;
 }
 
-.job-info .position::after{
-    content: '';
-    position: absolute;
-    left: 0; /* Center the highlight */
-    bottom: 2px; /* Position below the title */
-    /* transform: translateX(-50%); Center alignment */
-    width: calc(100% - 15px); /* Adjust width to be smaller than text */
-    height: 10px; /* Height of the highlight */
-    background-color: yellow; /* Highlight color */
-    border-radius: 5px; /* Rounded corners */
-    z-index: -1;
+.job-info .position::after {
+  content: '';
+  position: absolute;
+  left: 0; /* Center the highlight */
+  bottom: 2px; /* Position below the title */
+  /* transform: translateX(-50%); Center alignment */
+  width: calc(100% - 15px); /* Adjust width to be smaller than text */
+  height: 10px; /* Height of the highlight */
+  background-color: yellow; /* Highlight color */
+  border-radius: 5px; /* Rounded corners */
+  z-index: -1;
 }
 
 .job-desc {
-    margin-block-start: 0;
-    font-weight: 200;
+  margin-block-start: 0;
+  font-weight: 200;
 }
 
 ol > li + li {
-    margin-top: 0.5rem;
-  }
+  margin-top: 0.5rem;
+}

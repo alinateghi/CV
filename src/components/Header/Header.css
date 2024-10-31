@@ -1,32 +1,32 @@
 .header-content {
-    display: flex;
-    align-items: end;
-    padding-top: 1.5rem;
+  display: flex;
+  align-items: end;
+  padding-top: 1.5rem;
 }
 
 .header .info {
-    flex: 1 0 auto;
+  flex: 1 0 auto;
 }
 
 .header .contact {
-    width: auto;
+  width: auto;
 }
-.header .contact img{
-    vertical-align: bottom;
-    /* min-height: .8rem; */
-    /* max-width: 1rem; */
-    height: 20px;
-    margin-right: 10px;
+.header .contact img {
+  vertical-align: bottom;
+  /* min-height: .8rem; */
+  /* max-width: 1rem; */
+  height: 20px;
+  margin-right: 10px;
 }
 
 .name {
-    text-align: left;
-    margin-block-end: 0;
-    font-size: 2.5em;
-    font-weight: bolder;
-    line-height: 1em;
+  text-align: left;
+  margin-block-end: 0;
+  font-size: 2.5em;
+  font-weight: bolder;
+  line-height: 1em;
 }
 
 .role {
-    font-size: 1.2em;
+  font-size: 1.2em;
 }

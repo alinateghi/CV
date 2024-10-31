@@ -1,39 +1,14 @@
 [
-    {
-        "title": "Core Skills",
-        "list": [
-            "PHP",
-            "Laravel",
-            "MySql",
-            "MongoDB",
-            "Redis",
-            "JavaScript",
-            "React"
-        ]
-    },
-    {
-        "title": "Proficient Skills",
-        "list": [
-            "Docker",
-            "Nginx",
-            "MinIO",
-            "TypeScript",
-            "HTML & CSS",
-            "Bootstrap",
-            "C#"
-        ]
-    },
-    {
-        "title": "Familiar Skills",
-        "list": [
-            "ElasticSearch",
-            "Go",
-            "Java",
-            "Kotlin",
-            "AVR",
-            "FPGA",
-            "3Ds Max",
-            "Unity 3D"
-        ]
-    }
+  {
+    "title": "Core Skills",
+    "list": ["PHP", "Laravel", "MySql", "MongoDB", "Redis", "JavaScript", "React"]
+  },
+  {
+    "title": "Proficient Skills",
+    "list": ["Docker", "Nginx", "MinIO", "TypeScript", "HTML & CSS", "Bootstrap", "C#"]
+  },
+  {
+    "title": "Familiar Skills",
+    "list": ["ElasticSearch", "Go", "Java", "Kotlin", "AVR", "FPGA", "3Ds Max", "Unity 3D"]
+  }
 ]

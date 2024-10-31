@@ -1,30 +1,30 @@
 [
-    {
-        "degree": "MSc",
-        "field": "Software Engineering",
-        "university": "Sadjad University of Technologies",
-        "location": "Mashhad, Iran",
-        "dates_attended": "2020/09 - 2023/07"
-    },
-    {
-        "degree": "MSc",
-        "field": "Digital Electronic Systems",
-        "university": "Sadjad University of Technologies",
-        "location": "Tehran, Iran",
-        "dates_attended": "2018/09 - 2019/06"
-    },
-    {
-        "degree": "BSc",
-        "field": "Electronic Engineering",
-        "university": "Shahrood University of Technology",
-        "location": "Shahrood, Iran",
-        "dates_attended": "2013/09 - 2018/09"
-    },
-    {
-        "degree": "Diploma",
-        "field": "Math & Physics",
-        "university": "NODET (Shahid Hashemi Nezhad 2)",
-        "location": "Mashhad, Iran",
-        "dates_attended": "2013/06"
-    }
+  {
+    "degree": "MSc",
+    "field": "Software Engineering",
+    "university": "Sadjad University of Technologies",
+    "location": "Mashhad, Iran",
+    "dates_attended": "2020/09 - 2023/07"
+  },
+  {
+    "degree": "MSc",
+    "field": "Digital Electronic Systems",
+    "university": "Sadjad University of Technologies",
+    "location": "Tehran, Iran",
+    "dates_attended": "2018/09 - 2019/06"
+  },
+  {
+    "degree": "BSc",
+    "field": "Electronic Engineering",
+    "university": "Shahrood University of Technology",
+    "location": "Shahrood, Iran",
+    "dates_attended": "2013/09 - 2018/09"
+  },
+  {
+    "degree": "Diploma",
+    "field": "Math & Physics",
+    "university": "NODET (Shahid Hashemi Nezhad 2)",
+    "location": "Mashhad, Iran",
+    "dates_attended": "2013/06"
+  }
 ]

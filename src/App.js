@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import Education from './components/Education/Education';
 import Experience from './components/Experience/Experience';
@@ -7,16 +8,16 @@ import Nav from './components/Nav/Nav';
 function App() {
   return (
     <div className="app">
-      <div className='nav'>
+      <div className="nav">
         <Nav />
       </div>
-      <div className='header'>
+      <div className="header">
         <Header />
       </div>
-      <div className='jobs'>
+      <div className="jobs">
         <Experience />
       </div>
-      <div className='edj'>
+      <div className="edj">
         <Education />
       </div>
     </div>
