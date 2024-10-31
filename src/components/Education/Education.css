@@ -1,0 +1,16 @@
+.education {
+    display: flex;
+    align-items: start;
+    margin: .6rem 0;
+}
+
+.education .titles {
+    flex: 1 0 auto;
+}
+
+.education .extra {
+    width: auto;
+    text-align: end;
+    font-size: .8em;
+    font-style: italic;
+}

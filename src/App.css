@@ -1,0 +1,79 @@
+body {
+    /* font-family: Arial, sans-serif; */
+    /* line-height: 1.6; */
+    margin: 0;
+    padding: 0;
+    line-height: normal;
+}
+
+@media print {
+    body {
+      font-size: 12px;
+    }
+    
+  }
+
+p, ul, ol {
+    margin-block-start: .5em;
+    margin-block-end: .5em;
+}
+
+h2 {
+    color: #111;
+    margin-block-start: .25em;
+    margin-block-end: .25em;
+}
+
+/* header {
+    background: #007BFF;
+    color: white;
+    padding: 1rem 1.5rem;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+
+
+
+.job {
+    margin-bottom: 1rem 1.5rem;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #f1f1f1;
+} */
+
+.app {
+    display: grid;
+    grid-template: 'header nav' 'jobs nav' 'edj nav';
+    grid-template-columns: 70% 30%;
+    max-width: 1200px;
+    margin: 0 auto; /* Centers the grid horizontally */
+    justify-content: center; /* Centers the grid items within the container */
+    /* gap: 16px; /* Adds space between grid items */
+}
+
+.header {
+    grid-area: header;
+    padding: 0 1.5rem;
+}
+.jobs {
+    grid-area: jobs;
+    padding: 0 1.5rem;
+}
+.edj {
+    grid-area: edj;
+    padding: 0 1.5rem;
+}
+.nav {
+    grid-area: nav;
+    padding: 1rem 1.5rem;
+    background-color: #1f2532;
+    min-height: 100%;
+    color: #fff;
+}

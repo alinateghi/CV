@@ -1,0 +1,50 @@
+[
+    {
+        "position": "Backend Developer",
+        "company": "Snapp! Market Pro",
+        "description": "A leading B2B e-commerce platform, specializing in fast-moving consumer goods (FMCG). It connects retailers, manufacturers, and wholesalers, facilitating efficient online procurement.",
+        "location": "Tehran, Iran",
+        "dates_employed": "2023/08 - Present",
+        "content": "<p><strong>Developmental Roles:</strong></p><ul><li>Developed backend modules using PHP and Laravel, focusing on high performance and scalability.</li><li>Collaborated with product and frontend teams to design and implement APIs, optimizing data retrieval and processing.</li><li>Conducted testing using PHPUnit to ensure code reliability.</li></ul><p><strong>Achievements:</strong></p><ul><li>Improved code quality by implementing custom rules for PhpStan that enhanced adherence to our coding standards.</li><li>Created specific queries in Metabase to monitor production data, supporting important scenarios and ensuring data validation across systems.</li></ul>"
+    },
+    {
+        "position": "CTO | Full Stack Developer",
+        "company": "Kara Accelerator",
+        "description": "Accelerator and startup studio focusing on HealthTech startups, located in Azadi Innovation Factory.",
+        "location": "Tehran, Iran",
+        "dates_employed": "2022/04 - 2023/07",
+        "content": "<p><strong>Developmental Roles:</strong></p><ul><li>Served as CTO and Developer, contributing to the growth and success of numerous startups.</li><li>Maintained organization and consistency of web assets, including source codes.</li><li>Enhanced source codes of Momhood, a C2C mobile app for connecting women at similar stage using Symphony, Kotlin, Java, Swift, and Docker technologies and frameworks.</li><li>Add some features to PaadApp, a B2C mobile app for snakebite situation, utilizing Flutter and Laravel frameworks.</li><li>Spearheaded recruitment and interviewing processes for tech staff.</li><li>Established and managed the startup studio's technical team, overseeing its growth from inception to success.</li><li>Co-founded and launched CodeInnovator.net, a Turkey-based online web and app development cost calculator company, utilizing React JS and Laravel frameworks</li></ul><p><strong>Achievements:</strong></p><ul><li>Redesigned and developed the Karaehealth.com using Laravel, resulting in improved user experience and functionality.</li><li>Provided technical leadership and guidance to a team of software engineers within the startup studio, fostering a culture of collaboration, innovation, and continuous improvement.</li><li>Mentored and guided team members within the portfolio, fostering professional growth and promoting a collaborative environment to expedite the achievement of their MVP goals.</li></ul>"
+    },
+    {
+        "position": "Full Stack Developer",
+        "company": "Danesh Avaran Khorasan",
+        "description": "Hardware producer including advanced educational products such as smart board, touch screen and educational aid software.",
+        "location": "Remote",
+        "dates_employed": "2020/03 - 2020/10",
+        "content": "<p><strong>Projects:</strong></p><ol><li><ul style=\"list-style-type: circle;\"><li>Description: Navigation and Floor Guide Kiosk Software</li><li>Technologies: 3Ds Max, Unity 3D, Laravel, React JS, C# (Console)</li><li>Project Owner: Iranian National Tax Administration of Shiraz</li></ul></li><li><ul style=\"list-style-type: circle;\"><li>Description: Queue management software</li><li>Technologies: React JS, Laravel, C# (Console)</li><li>Project Owner: Mashhad courthouse</li></ul></li></ol>"
+    },
+    {
+        "position": "Freelance Developer",
+        "company": "",
+        "description": "",
+        "location": "",
+        "dates_employed": "2018 - Present",
+        "content": "<p><strong>Top Projects:</strong></p><p>vahidomidvari.com:</p><ul><li>Description: WooCommerce Websites &amp; Telegram Bot</li><li>Technology: Pure PHP, Laravel, MySql</li></ul><p>fireplus.ir (monitoring dashboard / local):</p><ul><li>Description: Hardware Device Control Panel</li><li>Sub Projects: Panel, AirQ (2 Versions), Imam Reza Holy Shrine, Elite</li><li>Technologies: React JS, Laravel, WebSocket, MySql, Docker</li></ul><p>grandtether.com:</p><ul><li>Project Description: Tether Exchange</li><li>Technologies: React JS, Laravel, WebSocket</li></ul>"
+    },
+    {
+        "position": "Software Developer | Game Developer",
+        "company": "Vision Arta Safe",
+        "description": "Vision Arta Safe Engineering-Commercial Company is a consulting, design, supply, installation and operation company providing fire alarm and extinguishing systems.",
+        "location": "Tehran, Iran",
+        "dates_employed": "2017/06 - 2018/04",
+        "content": "<ul><li>Projects Description: Modeling and 3D design of refinery units, developing training, simulation, and fire suppression software</li><li>Technologies: 3Ds Max, Unity 3D, C# (WPF)</li><li>Project Owner: Tehran Oil Refining Company</li></ul>"
+    },
+    {
+        "position": "Software Developer | IT Engineer",
+        "company": "Haftkhan Tourism Complex",
+        "description": "Provider of tourism services including restaurant, hotel, accommodation and social networks.",
+        "location": "Shahrood, Iran",
+        "dates_employed": "2016/03 - 2021/11",
+        "content": "<p><strong>Technical roles:</strong></p><ul><li>Developing Point of Sales (POS) and Cashier software | Technology: C# (WPF)</li><li>Developing hotel management software | Technology: C# (WPF)</li><li>Developing Telegram and Instagram bots | Technology: php</li><li>IT and networking management</li></ul>"
+    }
+]

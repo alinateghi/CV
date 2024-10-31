@@ -1,0 +1,24 @@
+.nav .title {
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.profile-img {
+    display: flex;
+    margin: 15px 0;
+}
+
+.profile-img img{
+    border-radius: 50%;
+    width: 60%;
+    margin: auto;
+}
+
+section {
+    padding: 1rem 0;
+    break-inside: avoid;
+}
+
+.skill-list {
+    list-style: "- ";
+}
